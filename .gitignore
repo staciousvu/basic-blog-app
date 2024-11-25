@@ -1,0 +1,19 @@
+# Backend - Spring Boot
+backend/target/
+backend/.idea/
+backend/*.log
+backend/.env
+
+# Frontend - Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.idea/
+
+# IDEs - Các IDE như IntelliJ, VSCode, v.v
+.idea/
+.vscode/
+
+# Hệ thống - Các file hệ thống
+.DS_Store
+Thumbs.db
